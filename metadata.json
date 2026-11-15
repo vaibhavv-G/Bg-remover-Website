@@ -1,0 +1,6 @@
+{
+  "name": "BGRemover Pro",
+  "description": "Remove Backgrounds. Keep What Matters. Instant AI-powered background removal with transparent 32-bit RGBA PNG exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
